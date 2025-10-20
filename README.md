@@ -41,5 +41,9 @@ Visualization: Built interactive visuals including KPI cards, bar charts, and tr
 
 
 ### Results/Findings
+- Overall Satisfaction Level
+- Areas for Improvement
+- Customer Segments
+- Key Drivers of Satisfaction
 
 
